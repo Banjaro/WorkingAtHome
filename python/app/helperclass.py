@@ -1,6 +1,5 @@
-"""@package AM_GUI
-Documentation "coming soon"
-
+"""
+This module helps the app to communicate with mongo
 """
  
 from pymongo import MongoClient
